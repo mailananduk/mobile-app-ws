@@ -1,5 +1,8 @@
 # Project aims to implement secured REST API
 
+**)Third commit
+* add authentication and authorization filter
+
 **)Second commit
 * added service, dto and model
 
